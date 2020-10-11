@@ -1,5 +1,5 @@
 # identity-sample
-This project demonstrate implementation of functionalities like registration, login using Identity library in ASP.NET Core MVC ewb application.
+This project demonstrate implementation of functionalities like registration, login using Identity library in ASP.NET Core MVC web application.
 Also in this this project you can find lockout, reset password, two-step verification, email confirmation and external login features
 
 This application uses `user-secrets` for configurations.
